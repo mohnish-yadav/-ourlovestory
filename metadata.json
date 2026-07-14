@@ -1,0 +1,6 @@
+{
+  "name": "Surprise Love Letter",
+  "description": "A highly interactive, cinematic, and magical digital love letter experience filled with surprise mini-games, memories, and animated moments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
